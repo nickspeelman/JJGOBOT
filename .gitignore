@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # so many pics.
-.jpg
+*.jpg
